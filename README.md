@@ -13,3 +13,10 @@ git branch -d nome-branch => elimina
 git branch nome-branch => crea un nuovo branch
 git merge nome-branch => prende le modifiche del branch e le mette in quello attivo
 ```
+Un branch è un ramo
+Una repository può estendersi in diversi rami
+Io posso creare un ramo a partire da un qualsiasi altro ramo
+Una volta creato un ramo ed effettuato le modifiche
+posso prenderle e fonderle nel ramo da cui è partito
+Più sviluppatore possono lavorare su rami differenti
+Alla fine basterà andare ad effettuare il merge delle modifiche
