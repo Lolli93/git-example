@@ -20,3 +20,8 @@ Una volta creato un ramo ed effettuato le modifiche
 posso prenderle e fonderle nel ramo da cui è partito
 Più sviluppatore possono lavorare su rami differenti
 Alla fine basterà andare ad effettuare il merge delle modifiche
+
+Nel vari merge potrebbero saltare fuori dei conflitti!
+Se due branch hanno fatto modifiche sugli stessi file
+negli stessi posti, questo potrebbe non essere semplice
+da gestire per git
