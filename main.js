@@ -1,1 +1,1 @@
-console.log('Hello from js dev')
+console.log('Hello from js dev, sono Lorenzo')
