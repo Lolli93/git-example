@@ -25,3 +25,5 @@ Nel vari merge potrebbero saltare fuori dei conflitti!
 Se due branch hanno fatto modifiche sugli stessi file
 negli stessi posti, questo potrebbe non essere semplice
 da gestire per git
+
+EDIT tp
